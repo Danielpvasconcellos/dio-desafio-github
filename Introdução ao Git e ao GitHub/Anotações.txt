@@ -1,0 +1,1 @@
+git add . OU git add -A OU git add * //Adiciona
